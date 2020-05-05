@@ -2,4 +2,5 @@
 <aura:component>
     <c:eventsHandler name="eventsHandler1"/>
     <c:eventsHandler name="eventsHandler2"/>
+    <c:eventsHandler name="jockey"/>
 </aura:component>
